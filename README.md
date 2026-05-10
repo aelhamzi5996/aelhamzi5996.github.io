@@ -103,4 +103,3 @@ Site web **statique** de vente de livres en ligne, développé avec HTML, CSS et
 Étudiante en Licence Informatique L2 — Université Cadi Ayyad, Marrakech  
 📧 a.elhamzi5996@uca.ac.ma
 =======
-# GitHub: @aelhamzi5996
