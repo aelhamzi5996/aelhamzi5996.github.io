@@ -94,7 +94,7 @@ Le développement du jeu **ESCAPE** s'inscrit dans le cadre de l'apprentissage d
 Site web **statique** de vente de livres en ligne, développé avec HTML, CSS et JavaScript pur.
 
 - **Fonctionnalités :** Navigation par catégories (Philosophie, Fantasy, Religieux, Enfants), fiches livres avec résumé et prix
-- **Langage :** HTML / CSS / JavaScript
+- **Langage :** HTML / CSS / JavaScript<br>
   **Voila le lien pour acceder au site: https://asmae617.github.io/THE-FAHS-BOOKS../**
 ---
 
