@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 🌐 CV Personnel Interactif — Asmaa El Hamzi
+
+#  CV Personnel Interactif — Asmaa El Hamzi
 
 > **Module :** Programmation Web 2  
 > **Niveau :** Licence L2 — Université Cadi Ayyad, Marrakech  
@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Description
+##  Description
 
 Ce projet consiste en la conception et la publication d'un **CV personnel interactif en ligne**, réalisé dans le cadre du module Programmation Web 2. Il mobilise trois technologies complémentaires du développement web moderne : HTML/CSS, jQuery et ReactJS, le tout hébergé sur GitHub Pages.
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
 ```
 monCv/
@@ -26,20 +26,20 @@ monCv/
 
 ---
 
-## ⚙️ Technologies utilisées
+##  Technologies utilisées
 
 | Technologie | Rôle |
 |-------------|------|
 | **HTML5 / CSS3** | Structure sémantique, Flexbox/Grid, responsive design |
-| **jQuery 3.7** | Animations, accordéon, validation formulaire, effets scroll |
-| **ReactJS 18** | Composants `ProjectCard`, `TechBadge`, `ContactForm` |
+| **jQuery** | Animations, accordéon, validation formulaire, effets scroll |
+| **ReactJS** | Composants `ProjectCard`, `TechBadge`, `ContactForm` |
 | **Boxicons** | Icônes vectorielles |
 | **Google Fonts** | Typographies Playfair Display & Poppins |
 | **GitHub Pages** | Hébergement et déploiement public |
 
 ---
 
-## 📄 Sections du CV
+##  Sections du CV
 
 - **Header** — Photo de profil, nom, titre, coordonnées
 - **À propos** — Biographie et parcours
@@ -50,7 +50,7 @@ monCv/
 
 ---
 
-## ⚛️ Composants React
+##  Composants React
 
 - `TechBadge` — Badge réutilisable pour afficher une technologie
 - `ProjectCard` — Carte projet avec titre, description, badges et lien
@@ -58,7 +58,7 @@ monCv/
 
 ---
 
-## ✨ Fonctionnalités jQuery
+##  Fonctionnalités jQuery
 
 - Animation des barres de compétences et de langues au scroll
 - Accordéon interactif pour la section Formation
@@ -68,7 +68,7 @@ monCv/
 
 ---
 
-## 🚀 Déploiement
+##  Déploiement
 
 Le projet est déployé via **GitHub Pages** et accessible à l'adresse :
 
@@ -78,9 +78,9 @@ https://aelhamzi5996.github.io
 
 ---
 
-## 💻 Projets réalisés
+## Projets réalisés
 
-### 🎮 Jeu ESCAPE — C++ & SFML
+### 1- Jeu ESCAPE — C++ & SFML
 
 Le développement du jeu **ESCAPE** s'inscrit dans le cadre de l'apprentissage du langage **C++** et de la **programmation orientée objet**. Ce projet consiste à concevoir un jeu interactif dans lequel le joueur incarne une voleuse qui tente de s'échapper dans une ville pendant la nuit.
 
@@ -89,7 +89,7 @@ Le développement du jeu **ESCAPE** s'inscrit dans le cadre de l'apprentissage d
 - **Bibliothèque utilisée :** [SFML](https://www.sfml-dev.org/)
 - **Langage :** C++
 
-## 📚 THE FAHS BOOKS — Site de vente de livres en ligne
+## 2- THE FAHS BOOKS — Site de vente de livres en ligne
 
 Site web **statique** de vente de livres en ligne, développé avec HTML, CSS et JavaScript pur.
 
@@ -97,11 +97,10 @@ Site web **statique** de vente de livres en ligne, développé avec HTML, CSS et
 - **Langage :** HTML / CSS / JavaScript
 ---
 
-## 👩‍💻 Auteure
+##  Auteure
 
 **Asmaa El Hamzi**  
 Étudiante en Licence Informatique L2 — Université Cadi Ayyad, Marrakech  
 📧 a.elhamzi5996@uca.ac.ma
 =======
-# aelhamzi5996.github.io
->>>>>>> 4bce4be69f8c5dc485cd3e570550f28a42c7d718
+# GitHub: @aelhamzi5996
