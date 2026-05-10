@@ -95,6 +95,7 @@ Site web **statique** de vente de livres en ligne, développé avec HTML, CSS et
 
 - **Fonctionnalités :** Navigation par catégories (Philosophie, Fantasy, Religieux, Enfants), fiches livres avec résumé et prix
 - **Langage :** HTML / CSS / JavaScript
+  **Voila le lien pour acceder au site: https://asmae617.github.io/THE-FAHS-BOOKS../**
 ---
 
 ##  Auteure
