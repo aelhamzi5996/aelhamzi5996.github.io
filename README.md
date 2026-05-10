@@ -101,5 +101,6 @@ Site web **statique** de vente de livres en ligne, développé avec HTML, CSS et
 
 **Asmaa El Hamzi**  
 Étudiante en Licence Informatique L2 — Université Cadi Ayyad, Marrakech  
-# 📧 a.elhamzi5996@uca.ac.ma
-# GitHub : https://github.com/aelhamzi5996
+**📧 a.elhamzi5996@uca.ac.ma**
+**GitHub : https://github.com/aelhamzi5996**
+**Voir Mon CV : https://aelhamzi5996.github.io**
